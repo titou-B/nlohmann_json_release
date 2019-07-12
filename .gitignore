@@ -1,5 +1,8 @@
 # ignore all subdirectories
 **/
+!include/
+!include/*
+!include/*/*
 
 # YouCompleteMe
 .ycm_extra_conf.*
